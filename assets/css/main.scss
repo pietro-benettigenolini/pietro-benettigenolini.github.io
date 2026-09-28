@@ -38,8 +38,15 @@
     "layout/json_cv"
 ;
 
-body {
-font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif !important;
+body,
+.page,
+.page__inner-wrap,
+.page__content,
+.page__content p,
+.page__content li,
+.page__content a,
+h1, h2, h3, h4, h5, h6 {
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif !important;
 }
 
 .cv-list {
