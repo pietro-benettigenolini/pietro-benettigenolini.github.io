@@ -15,8 +15,6 @@ redirect_from:
 
 SNSF Ambizione Fellow at <a href="https://www.unige.ch/sciences/physique/theorique/en">Université de Genève</a> 
 
-<br><br>
-
 Email: pietro [dot] benettigenolini [at] unige [dot] ch
 
 <!--
