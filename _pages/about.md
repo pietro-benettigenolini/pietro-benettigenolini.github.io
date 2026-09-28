@@ -13,7 +13,11 @@ redirect_from:
 
 # Pietro Benetti Genolini
 
-SNSF Ambizione Fellow at Université de Genève
+SNSF Ambizione Fellow at <a href="https://www.unige.ch/sciences/physique/theorique/en">Université de Genève</a> 
+
+<br><br>
+
+Email: pietro [dot] benettigenolini [at] unige [dot] ch
 
 <!--
 Bio to be written later.
