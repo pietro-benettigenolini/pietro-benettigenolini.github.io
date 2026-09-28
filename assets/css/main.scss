@@ -37,3 +37,36 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+body {
+font-family: Palatino, "Palatino Linotype", "Book Antiqua", serif !important;
+}
+
+.cv-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.cv-list li {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 0.5rem;
+}
+
+.cv-list li::before {
+  content: "•";
+  margin-right: 0.6rem;
+}
+
+.cv-list .yr {
+  width: 8rem;
+  flex-shrink: 0;
+}
+
+.page__content a {
+  color: #000089;
+}
+
+.page__content a:hover {
+  color: #008989;
+}
